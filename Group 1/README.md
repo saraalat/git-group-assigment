@@ -12,4 +12,6 @@ Facts:
 
 5. The book was adapted to film dozens of times, including Tim Burton's 2010 "Alice in Wonderland".
 
+6. Johnny Depp was a main character in Tim Burton's 2010 film - "Alice in Wonderland"
+
 7. The book has never been out of print! Since it was published in 1865, it has been translated into 176 languages.
