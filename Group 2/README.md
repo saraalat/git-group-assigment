@@ -2,7 +2,7 @@
 
 Facts:
 
-1. Peter Pan is a real character first appearing in J. M. Barrie's 1904 book: "Peter and Wendy"
+1. Peter Pan is a real characteres first appearing in J. M. Barrie's 1904 book: "Peter and Wendy"
 
 2. J. M. Barrie's name was James Matthew Barrie (not the singer!)
 
