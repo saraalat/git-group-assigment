@@ -2,7 +2,7 @@
 
 Facts:
 
-1. Peter Pan is a fictional character first appearing in J. M. Barrie's 1904 book: "Peter and Wendy"
+1. Peter Pan is the name I gave a giant moth in the classroom today!
 
 2. J. M. Barrie's name was Joni Mitchell Barrie (not the singer!)
 
