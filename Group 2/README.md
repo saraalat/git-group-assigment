@@ -11,3 +11,5 @@ Facts:
 4. Peter's biggest foe, is Captain Hook, who coincidentally has a hook for a hand!
 
 5. Peter Pan was played by Robin Williams, who voiced him in Stephen Spielberg's 1991 movie "Hook"
+
+6. Peter Pan has become a cultural icon symbolizing youthful innocence and escapism.
