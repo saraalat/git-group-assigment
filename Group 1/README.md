@@ -4,7 +4,7 @@ Facts:
 
 1. "Alice in Wonderland" is the name of a book published in 1865 by Lewis Carroll.
 
-2. Lewis Carroll was the pen name of James Brown (not the singer!)
+2. Lewis Carroll was the pen name of Charles Lutwidge Dodgson.
 
 3. The story follows Alice as she falls through a rabbit hole into a fantasy world of anthropomorphic creatures.
 
