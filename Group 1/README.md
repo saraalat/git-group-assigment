@@ -2,7 +2,7 @@
 
 Facts:
 
-1. "Alice in Wonderland" is the name of a book published in 1865 by Lewis Carroll.
+1. "Alice's Adventures in Wonderland" is the name of a book published in 1865 by Lewis Carroll.
 
 2. Lewis Carroll was the pen name of James Brown (not the singer!)
 
