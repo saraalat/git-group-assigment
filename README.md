@@ -14,7 +14,7 @@ Your job, as a group, is to (1) fact check these facts and correct any mistakes 
 and (2) add some facts of your own.
 
 Don't forget to commit and push your changes, and to fetch the changes made my your teammates.
-(be careful of creating any merge-conflicts!)
+(be careful of creating any conflicts!)
 
 Once your team is done, make a pull-request to the `main` branch, and review it.
 
