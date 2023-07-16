@@ -9,7 +9,7 @@ Each group has a sub-folder.
 Within that folder, you will find a list of facts in a `.md` file
 (we will learn more about these types of files next week).
 
-Your job, as a group, is to (1) fact check these facts and correct any mistakes you might find
+Your job, as a group, is to (1) fact-check these facts and correct any mistakes you might find
 (**TIP**: it might be *faster* to work in smaller sub-groups!),
 and (2) add some facts of your own.
 
