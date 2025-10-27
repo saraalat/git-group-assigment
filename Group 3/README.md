@@ -8,6 +8,6 @@ Facts:
 
 3. All the illustrations were drawn in colored pencil.
 
-4. It has been suggested that Michael Jackson's moon-walk was inspired by the fox's dance in the 1974 adaptation.
+4. It has been suggested that Michael Jackson's moonwalk was inspired by earlier street and stage dancers, rather than by the fox’s dance in The Little Prince (1974) adaptation.
 
 5. The little prince is actually named Maurice
