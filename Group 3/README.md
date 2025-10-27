@@ -6,6 +6,7 @@ Facts:
 
 2. The book was first published in the United States, not only in France.
 
+
 3. The illustrations were made with watercolor, not colored pencil.
 
 4. There is no evidence linking Michael Jackson’s moonwalk to the 1974 adaptation.
