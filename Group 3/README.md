@@ -6,7 +6,7 @@ Facts:
 
 2. The book was only in France, but its translation's later gained success in the US.
 
-3. All the illustrations were drawn in colored pencil.
+3. All the illustrations were drawn by Antoine de Saint-Exupéry.
 
 4. It has been suggested that Michael Jackson's moon-walk was inspired by the fox's dance in the 1974 adaptation.
 
