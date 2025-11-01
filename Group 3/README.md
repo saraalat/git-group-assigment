@@ -6,8 +6,16 @@ Facts:
 
 2. The book was only in France, but its translation's later gained success in the US.
 
+<<<<<<< Updated upstream
 3. All the illustrations were drawn in colored pencil.
 
 4. It has been suggested that Michael Jackson's moon-walk was inspired by the fox's dance in the 1974 adaptation.
 
 5. The little prince is actually named Maurice
+=======
+3. The illustrations were made with watercolor, not colored pencil.
+
+4.It has been suggested that Michael Jackson’s moonwalk was inspired by earlier street and stage dancers, and not by the fox’s dance in The Little Prince (1974) adaptation.
+
+5. The Little Prince has no given name in the story.
+>>>>>>> Stashed changes
